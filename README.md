@@ -1,3 +1,5 @@
+# Run this project before running the frontend
+
 # accountscodingbackend
 backen for the accounts coding project
 
